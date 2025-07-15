@@ -3,7 +3,7 @@ name: omni-poc
 talos:
   version: v1.10.5
 kubernetes:
-  version: 1.30.14
+  version: 1.31.10
 features:
   enableWorkloadProxy: true
 patches:
