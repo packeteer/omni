@@ -10,7 +10,7 @@ spec:
               elements:
                 - repoURL: https://github.com/packeteer/omni.git
                   revision: HEAD
-                  repoPath: omni/apps/*/*
+                  repoPath: examples/omni/apps/*/*
           - git:
               repoURL: '{{ repoURL }}'
               revision: '{{ revision }}'
